@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me email
+- 📫 How to reach me  by my email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
